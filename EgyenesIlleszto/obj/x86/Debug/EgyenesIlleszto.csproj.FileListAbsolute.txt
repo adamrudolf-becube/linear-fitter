@@ -1,0 +1,15 @@
+C:\Users\Rudi\AppData\Local\Temporary Projects\EgyenesIlleszto\bin\Debug\EgyenesIlleszto.exe
+C:\Users\Rudi\AppData\Local\Temporary Projects\EgyenesIlleszto\bin\Debug\EgyenesIlleszto.pdb
+C:\Users\Rudi\AppData\Local\Temporary Projects\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.Form1.resources
+C:\Users\Rudi\AppData\Local\Temporary Projects\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.Properties.Resources.resources
+C:\Users\Rudi\AppData\Local\Temporary Projects\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.csproj.GenerateResource.Cache
+C:\Users\Rudi\AppData\Local\Temporary Projects\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.exe
+C:\Users\Rudi\AppData\Local\Temporary Projects\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.pdb
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.exe
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.pdb
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\bin\Debug\EgyenesIlleszto.exe
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\bin\Debug\EgyenesIlleszto.pdb
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.Form1.resources
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.Properties.Resources.resources
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.csproj.GenerateResource.Cache
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Debug\EgyenesIlleszto.csprojResolveAssemblyReference.cache

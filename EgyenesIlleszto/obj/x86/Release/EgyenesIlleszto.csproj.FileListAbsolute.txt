@@ -1,0 +1,3 @@
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Release\EgyenesIlleszto.Form1.resources
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Release\EgyenesIlleszto.Properties.Resources.resources
+C:\Users\Rudi\Documents\Visual Studio 2010\Projects\EgyenesIlleszto\EgyenesIlleszto\obj\x86\Release\EgyenesIlleszto.csproj.GenerateResource.Cache
